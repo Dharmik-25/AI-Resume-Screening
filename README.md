@@ -2,14 +2,6 @@
 
 This is an AI-based system to automate the resume screening process. It ranks candidates based on job descriptions, extracting relevant skills using Named Entity Recognition (NER), and uses TF-IDF and cosine similarity to rank the resumes.
 
-## Table of Contents
-- [Description](#description)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Technologies](#technologies)
-- [Contributors](#contributors)
-- [License](#license)
 
 ## Description
 Recruiters face challenges in efficiently screening and ranking numerous resumes in a competitive job market. This project addresses that by offering an AI-based Resume Screening & Candidate Ranking System that automates resume shortlisting based on job descriptions.
